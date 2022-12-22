@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace GameConsole
+namespace ConsoleApp30
 {
     static class PlayerDisplayer
     {
