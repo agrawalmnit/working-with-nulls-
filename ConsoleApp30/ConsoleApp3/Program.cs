@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 
-namespace GameConsole
+namespace ConsoleApp3
 {
     class Program
     {
