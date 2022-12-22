@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics.CodeAnalysis;
 
-namespace GameConsole
+namespace ConsoleApp30
 {
     class PlayerCharacter
     {
