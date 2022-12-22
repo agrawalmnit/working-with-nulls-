@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GameConsole
+namespace ConsoleApp30
 {
     class Program
     {
